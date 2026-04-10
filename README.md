@@ -1,1 +1,1 @@
-To view the page go to https://ntcrz.github.io/Riverdale-Nails-SPA-INC/
+"To view the Nails Spa page go to https://ntcrz.github.io/Riverdale-Nails-SPA-INC/" 
